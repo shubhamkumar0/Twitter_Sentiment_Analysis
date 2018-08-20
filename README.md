@@ -17,7 +17,7 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 
   python demo.py
   
-Credits to Siraj(https://github.com/llSourcell?tab=repositories)  
+Credits to Siraj(https://github.com/llSourcell)  
   
 
 
